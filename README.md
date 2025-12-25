@@ -3,7 +3,7 @@ R-based implementation of core technical analysis indicators, including moving a
 
 ## Lab 7: Technical Analysis Indicators (R)
 
-This lab implements a range of widely used **technical analysis indicators** in R using real equity market data. The objective is to demonstrate how common trading indicators can be computed, visualised, and combined using standard financial libraries.
+This lab, from the Investment and Trading module (STAT30320) implements a range of widely used **technical analysis indicators** in R using real equity market data. The objective is to demonstrate how common trading indicators can be computed, visualised, and combined using standard financial libraries.
 
 ### Features
 - Retrieval of historical equity price data via Yahoo Finance
